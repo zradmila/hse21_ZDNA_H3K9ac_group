@@ -4,7 +4,8 @@
 
 Над проектом работали 
 
-| ФИ             | Номер группы | Тип клеток | github                                               | 
-| :--------------|:------------:|:----------:|:-----------------------------------------------------|
-| Заикина Радмила| 3            | K562       | https://github.com/zradmila/hse21_H3K9ac_ZDNA_human  | 
-| Саликова Дарья | 3            | H1         | https://github.com/Ramsey21/hse21_H3K9ac_ZDNA_human  | 
+| ФИ                | Номер группы | Тип клеток | github                                               | 
+| :-----------------|:------------:|:----------:|:-----------------------------------------------------|
+| Заикина Радмила   | 3            | K562       | https://github.com/zradmila/hse21_H3K9ac_ZDNA_human  | 
+| Саликова Дарья    | 3            | H1         | https://github.com/Ramsey21/hse21_H3K9ac_ZDNA_human  | 
+| Байдаров Егор| 2| H1 | https://github.com/egbaydarov/hse21_H3K9ac_ZDNA_human
