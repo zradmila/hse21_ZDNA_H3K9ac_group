@@ -10,4 +10,5 @@
 | Саликова Дарья    | 3            | H1         | https://github.com/Ramsey21/hse21_H3K9ac_ZDNA_human  | 
 | Байдаров Егор| 2| H1 | https://github.com/egbaydarov/hse21_H3K9ac_ZDNA_human
 
-[Ссылка на презентацию](https://github.com/zradmila/hse21_ZDNA_H3K9ac_group/files/6627471/ZDNA_H3K9ac.pdf)
+[Ссылка на презентацию](https://github.com/zradmila/hse21_ZDNA_H3K9ac_group/files/6627506/ZDNA_H3K9ac.pdf)
+
